@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
-import { FiLogIn, FiMail, FiUser, FiLock, FiArrowLeft } from 'react-icons/fi';
+import { FiMail, FiUser, FiLock, FiArrowLeft } from 'react-icons/fi';
 import { Form } from '@unform/web';
 import logoImg from '../../assets/logo.svg';
 import { Container, Content, Background } from './styles';
